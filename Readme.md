@@ -51,3 +51,4 @@ Requires **Python 3.10+**.
 ```bash
 pip install customtkinter psutil
 python main.py
+[Preview](preview.png)
